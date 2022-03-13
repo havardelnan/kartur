@@ -4,5 +4,6 @@ Salt
 Pepper
 Dobbeldusj
 Head and shoulders
-Jeger (rester fra tidligere kartur)
+Jägermeister (rester fra tidligere kartur)
 Toalettpapir
+
