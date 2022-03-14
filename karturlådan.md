@@ -1,9 +1,15 @@
-Kaffe
-Kaffefilter - flere størrelser
-Salt 
-Pepper
-Dobbeldusj
-Head and shoulders
-Jägermeister (rester fra tidligere kartur)
-Toalettpapir
+#Karturlådan
+
+Hvar er lådan nu: @havardelnan
+
+[] Kaffe
+[] Kaffefilter - flere størrelser
+[] Salt
+[] Pepper
+[x] Dobbeldusj
+[x] Head and shoulders
+[x] Jägermeister (rester fra tidligere kartur)
+[x] Toalettpapir
+[] Plastica bags
+[] Bakepapir
 
